@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+
+/* Messaggio risultato */
+#result-text{
+    text-align: center;
+}
+
 /* Contenitore dado */
 .dice-container {
     display: flex;
